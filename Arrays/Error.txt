@@ -1,0 +1,150 @@
+count 8
+end 4
+flag 4
+swapers 0
+minCount 2147483647
+------------------------
+count 7
+end 5
+flag 4
+swapers 0
+minCount 7
+------------------------
+count 7
+end 6
+flag 4
+swapers 1
+minCount 7
+------------------------
+count 7
+end 7
+flag 4
+swapers 2
+minCount 7
+------------------------
+count 7
+end 8
+flag 4
+swapers 3
+minCount 7
+------------------------
+count 7
+end 9
+flag 4
+swapers 4
+minCount 7
+------------------------
+count 6
+end 10
+flag 4
+swapers 4
+minCount 6
+------------------------
+count 5
+end 11
+flag 4
+swapers 4
+minCount 5
+------------------------
+count 5
+end 12
+flag 4
+swapers 5
+minCount 5
+------------------------
+count 5
+end 13
+flag 4
+swapers 6
+minCount 5
+------------------------
+count 5
+end 14
+flag 4
+swapers 7
+minCount 5
+------------------------
+count 6
+end 14
+flag 5
+swapers 7
+minCount 5
+------------------------
+count 6
+end 14
+flag 6
+swapers 6
+minCount 5
+------------------------
+count 6
+end 14
+flag 7
+swapers 5
+minCount 5
+------------------------
+count 6
+end 14
+flag 8
+swapers 4
+minCount 5
+------------------------
+count 6
+end 14
+flag 9
+swapers 3
+minCount 5
+------------------------
+count 5
+end 15
+flag 9
+swapers 3
+minCount 5
+------------------------
+count 4
+end 16
+flag 9
+swapers 3
+minCount 4
+------------------------
+count 3
+end 17
+flag 9
+swapers 3
+minCount 3
+------------------------
+count 4
+end 17
+flag 10
+swapers 3
+minCount 3
+------------------------
+count 3
+end 18
+flag 10
+swapers 3
+minCount 3
+------------------------
+count 4
+end 18
+flag 11
+swapers 3
+minCount 3
+------------------------
+count 4
+end 18
+flag 12
+swapers 2
+minCount 3
+------------------------
+count 4
+end 18
+flag 13
+swapers 1
+minCount 3
+------------------------
+count 4
+end 18
+flag 14
+swapers 0
+minCount 3
+------------------------
